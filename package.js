@@ -1,6 +1,6 @@
 Package.describe({
   git: 'https://github.com/afuggini/Meteor-cfs-storage-adapter.git',
-  name: 'cfs:storage-adapter',
+  name: 'afuggini:storage-adapter',
   version: '0.1.1',
   summary: 'CollectionFS, Class for creating Storage adapters'
 });
